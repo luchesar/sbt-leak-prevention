@@ -1,4 +1,4 @@
-package com.github.dwickern
+package com.github.luchesar
 
 import sbt.Keys._
 import sbt._

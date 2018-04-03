@@ -1,4 +1,4 @@
-package com.github.dwickern
+package com.github.luchesar
 
 import sbt.Logger
 import se.jiderhamn.classloader.leak.prevention.{Logger => LeakLogger}
